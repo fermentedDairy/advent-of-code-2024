@@ -15,3 +15,4 @@ rootProject.name = "day2"
 include("part1")
 include("part2")
 include("part1")
+include("part2")

@@ -1,4 +1,4 @@
-package org.fermented.dairy.aoc.day2
+package org.fermented.dairy.aoc.day2.part1
 
 import java.io.File
 import javax.sound.sampled.UnsupportedAudioFileException
@@ -33,7 +33,5 @@ class Calculator {
                 builder(line)
             }.toList()
         }
-
-    private fun distance(p1: Int, p2: Int): Int = maxOf(p1, p2) - minOf(p1, p2)
 }
 

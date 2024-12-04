@@ -1,4 +1,4 @@
-package org.fermented.dairy.aoc.day2
+package org.fermented.dairy.aoc.day2.part1
 
 import org.junit.jupiter.api.Assertions.*
 import org.junit.jupiter.api.DisplayName
